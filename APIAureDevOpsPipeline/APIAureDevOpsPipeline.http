@@ -1,0 +1,6 @@
+@APIAureDevOpsPipeline_HostAddress = http://localhost:5145
+
+GET {{APIAureDevOpsPipeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
